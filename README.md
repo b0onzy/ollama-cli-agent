@@ -67,7 +67,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/ollama-cli-agent.git
+git clone https://github.com/b0onzy/ollama-cli-agent.git
 cd ollama-cli-agent
 
 # 2. Create and activate environment
@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for privacy-conscious developers**
 
-[Report Bug](https://github.com/<your-username>/ollama-cli-agent/issues) • [Request Feature](https://github.com/<your-username>/ollama-cli-agent/issues)
+[Report Bug](https://github.com/b0onzy/ollama-cli-agent/issues) • [Request Feature](https://github.com/b0onzy/ollama-cli-agent/issues)
 
 </div>
 
