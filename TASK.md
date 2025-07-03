@@ -1,9 +1,4 @@
 
----
-
-### ✅ `task.md` — *What Cole uses to stay on track (daily/weekly tasks)*
-
-```markdown
 # ✅ Tasks — ollama-cli-agent
 
 Track immediate dev goals and bugs.
